@@ -2,7 +2,6 @@
 
 ## Resumen
 
-En este desafío validaremos nuestros conocimientos de posicionamiento en CSS. Para lograrlo, necesitarás diferenciar los valores asociados a display (inline, block, inline-block),utilizar floats para posicionar
-texto e imágenes, y resolver el problema de colapso de floats utilizando un clearfix.
+En este desafío se solicita clonar y hacer commit a una pagina de un compañero en este caso elegi el de Gigi y su pagina Igana Pages
 
 Curso Introducción al desarrollo web (G23) - Desafío Latam.
